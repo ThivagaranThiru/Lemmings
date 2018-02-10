@@ -1,11 +1,7 @@
 # Lemmings
  * PROJET 2017/2018	UPEC				THIRUCHELVAM Thivagaran - PIRES Christopher
  * Conception et Programmation Objets
-
-Le projet comporte l'ensemble des pouvoirs demandés.
-Il obéit également à l'ensemble des règles établies dans l'énoncé.
-Pour les types de cases, elles sont toutes crées mais la case piégée ne fonctionne malheuresement pas.
-
+ 
 Le jeu a un peu mal à appliquer les pouvoirs attribués par les clics, il ne faut donc pas hésiter à cliquer plusieurs fois sur la position.
 De plus, il est conseillé de cliquer à la position où l'on veut activer le pouvoir jusqu'à l'arrivée du lemming.
 
