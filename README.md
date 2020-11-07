@@ -25,13 +25,13 @@ Le jeu se déroule pas à pas. À chaque pas, les lemmings marcheurs se déplace
 
 Afin de mener les lemmings à bon port, le joueur a la possibilité de leur affecter une tâche parmi les suivantes :
 
-Un Bloqueur s’arrête, et fait faire demi-tour aux les lemmings tentant de le croiser ;
-Un Tunnelier creuse les obstacles destructibles devant lui tout en avançant jusqu’à l’air libre ;
-Un Foreur creuse dans les obstacles destructibles vers le bas, pendant 5 pas ;
-Un Bombeur explose après 3 pas, détruisant les obstacles destructibles sur 2 cases autour de lui ;
-Un Charpentier construit un escalier en montant d’une case à chaque pas pendant 5 pas ;
-Un Grimpeur peut escalader les parois verticales jusqu’au sommet quelque soit la hauteur ;
-Un Parachutiste tombe deux fois moins vite que les autres et survit à sa chute.
+- Un Bloqueur s’arrête, et fait faire demi-tour aux les lemmings tentant de le croiser ;
+- Un Tunnelier creuse les obstacles destructibles devant lui tout en avançant jusqu’à l’air libre ;
+- Un Foreur creuse dans les obstacles destructibles vers le bas, pendant 5 pas ;
+- Un Bombeur explose après 3 pas, détruisant les obstacles destructibles sur 2 cases autour de lui ;
+- Un Charpentier construit un escalier en montant d’une case à chaque pas pendant 5 pas ;
+- Un Grimpeur peut escalader les parois verticales jusqu’au sommet quelque soit la hauteur ;
+- Un Parachutiste tombe deux fois moins vite que les autres et survit à sa chute.
  
 
 Le jeu a un peu mal à appliquer les pouvoirs attribués par les clics, il ne faut donc pas hésiter à cliquer plusieurs fois sur la position.
