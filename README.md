@@ -36,3 +36,5 @@ Afin de mener les lemmings à bon port, le joueur a la possibilité de leur affe
 
 Le jeu a un peu mal à appliquer les pouvoirs attribués par les clics, il ne faut donc pas hésiter à cliquer plusieurs fois sur la position.
 De plus, il est conseillé de cliquer à la position où l'on veut activer le pouvoir jusqu'à l'arrivée du lemming.
+
+Technologies utilisées :  Eclipse, Java.
